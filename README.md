@@ -13,5 +13,5 @@ By creating visual focal points through colour differences, we offer an element 
 Leverage existing CSS libraries, such as **Picnic CSS**—a lightweight, modular CSS library. It facilitates swift implementations of attributes changes like colours. Its lightweight nature trims down preload times, while the modular framework offers agility in tweaking attributes across segments. This results in pronounced colour contrasts for particular elements or page sections by customizing one's colour scheme. Such contrast doesn't just boost visual aesthetics but also channels the user's gaze towards pivotal content or calls-to-action.
 
 In the example below, different colours and styles can be achieved by merely assigning the `button` to the corresponding `class`:
-![code example](asset/codeemample.png)
+![code example](asset/example.png)
 [Picnic CSS on GitHub](https://github.com/franciscop/picnic)
