@@ -1,7 +1,8 @@
 # chma0264_9103_tut5
 
 ## About assignment
-Personally, I chose Audio as the direction for my personal work
+Personally, I chose Audio as the direction for my personal work.
+
 Click to play or stop the music
 
 
