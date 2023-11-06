@@ -1,4 +1,13 @@
 # chma0264_9103_tut5
+
+## About assignment
+Personally, I chose Audio as the direction for my personal work
+Click to play or stop the music
+
+
+
+
+
 ## 1. Imaging Technique: Colour Contrast
 
 In some movies or games, colour contrasts are often used to highlight certain objects in the scene. An iconic example is the little girl in red in "Schindler's List", who stands out against her surroundings. Every time she appears, she quickly captures the audience's attention. This stark contrast holds deep symbolic significance.
